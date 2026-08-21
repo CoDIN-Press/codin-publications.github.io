@@ -7,7 +7,7 @@ slug: documenting-performing-arts
 type: book
 status: published
 date: "2026"
-year: 2026
+year: "2026"
 image: ../../assets/covers/documenting-performing-arts-en.png
 image-alt: "Cover of Documenting Performing Arts: A Field Manual"
 description: "A bilingual field manual for documenting performing arts as living knowledge through responsible relationships, consent and cultural authority."
