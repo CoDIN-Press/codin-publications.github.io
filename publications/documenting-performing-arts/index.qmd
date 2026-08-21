@@ -6,7 +6,7 @@ subtitle-ta: "ஓர் களக்கையேடு"
 slug: documenting-performing-arts
 type: book
 status: published
-date: 2026
+date: "2026"
 year: 2026
 image: ../../assets/covers/documenting-performing-arts-en.png
 image-alt: "Cover of Documenting Performing Arts: A Field Manual"
