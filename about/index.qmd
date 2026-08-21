@@ -1,0 +1,19 @@
+---
+title: "About CoDIN Press"
+---
+
+CoDIN Press is a publishing initiative of the Council for Diversity and Innovation. It provides a durable public home for books, journals, reports and learning resources created for readers, practitioners, communities and researchers.
+
+## Our approach
+
+We publish work intended to remain understandable, usable and attributable across formats and languages. This means treating publication as more than the distribution of files. Context, consent, cultural authority, accessibility, contributor credit and long-term maintenance form part of the publication itself.
+
+Our catalogue is designed to support multilingual editions without treating one language as a secondary supplement. Individual publications retain their own editorial identity, contributors, rights statements and access conditions.
+
+## Open infrastructure
+
+The public website and publication sources are maintained through open, version-controlled workflows. Where appropriate, editions are made available as accessible web publications and downloadable formats. Source transparency does not override copyright, consent, cultural protocol or restrictions attached to particular material.
+
+## Institutional relationship
+
+CoDIN Press is the publication identity used by the Council for Diversity and Innovation for this digital collection. Publication-specific credits identify the editors, authors, contributors and rights holders responsible for each work.

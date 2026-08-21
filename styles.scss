@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+$body-bg: #fcfaf4;
+$body-color: #182a2d;
+$primary: #176c68;
+$secondary: #a19945;
+$link-color: #11645f;
+$navbar-bg: #123f42;
+$navbar-fg: #ffffff;
+$footer-bg: #102f32;
+$footer-fg: #ffffff;
+$font-family-sans-serif: "Noto Sans Tamil", "Segoe UI", sans-serif;
+$headings-font-family: "Noto Serif Tamil", Georgia, serif;
+$headings-color: #173f42;
+$border-radius: .35rem;
+/*-- scss:rules --*/
+.navbar-brand img { max-height: 44px; }
+.navbar-title { font-weight: 700; letter-spacing: .01em; }
+.nav-footer a { color: #d5eeeb; }
+.quarto-title-banner { background: linear-gradient(115deg, #e8f1ea, #f4eedc); }

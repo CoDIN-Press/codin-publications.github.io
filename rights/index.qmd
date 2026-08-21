@@ -1,0 +1,21 @@
+---
+title: "Rights and Licensing"
+---
+
+## Portal content
+
+Except where otherwise indicated, the editorial content of this portal is licensed under the [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+## Individual publications
+
+Each publication provides its own copyright and licence statement. Rights may belong to editors, authors, artists, photographers, illustrators, communities, institutions or other contributors. The presence of a publication in this catalogue does not replace or broaden those terms.
+
+## Third-party and culturally restricted material
+
+Photographs, illustrations, recordings, archival materials and other third-party content may carry separate copyright, cultural, consent or access conditions. Where indicated, those conditions take precedence over the general licence applied to surrounding editorial work.
+
+Open access should not be interpreted as permission to remove attribution, disclose restricted knowledge, ignore cultural protocol, misrepresent contributors or use material beyond its stated conditions.
+
+## Reporting a concern
+
+To report incorrect attribution, unwanted disclosure, inaccessible content or suspected misuse, contact CoDIN Press through the [CoDIN-Press GitHub organization](https://github.com/CoDIN-Press).

@@ -1,0 +1,15 @@
+---
+title: "Books"
+listing:
+  contents:
+    - ../publications/documenting-performing-arts/index.qmd
+  type: grid
+  fields: [image, title, subtitle, description, date, categories]
+  sort: "date desc"
+  filter-ui: true
+  grid-columns: 3
+page-layout: full
+toc: false
+---
+
+Monographs, field manuals and multilingual digital books published by CoDIN Press.

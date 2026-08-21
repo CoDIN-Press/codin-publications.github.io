@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - robots.txt
+    - assets/fonts/*
+
+website:
+  title: "CoDIN Press"
+  description: "Accessible, multilingual and ethically grounded publications from the Council for Diversity and Innovation."
+  site-url: "https://publications.diversity.org.in"
+  favicon: assets/brand/codin-logo.png
+  image: assets/brand/codin-logo.png
+  open-graph: true
+  twitter-card: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo: assets/brand/codin-logo.png
+    logo-alt: "CoDIN Press"
+    title: "CoDIN Press"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications/index.qmd
+        text: Publications
+      - href: books/index.qmd
+        text: Books
+      - href: journals/index.qmd
+        text: Journals
+      - href: resources/index.qmd
+        text: Resources
+      - href: about/index.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/CoDIN-Press
+        aria-label: CoDIN Press on GitHub
+  page-footer:
+    left: |
+      **CoDIN Press**  
+      A publishing initiative of the Council for Diversity and Innovation
+    center:
+      - text: Publishing Principles
+        href: publishing-principles/index.qmd
+      - text: Rights & Licensing
+        href: rights/index.qmd
+      - text: Accessibility
+        href: accessibility/index.qmd
+      - text: Contact
+        href: contact/index.qmd
+    right: |
+      Except where indicated, portal editorial content is licensed under  
+      [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    include-in-header: head.html
+
+lang: en

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://publications.diversity.org.in/sitemap.xml

@@ -1,0 +1,9 @@
+---
+title: "Journals"
+description: "Journal volumes, issues and articles from CoDIN Press."
+toc: false
+---
+
+CoDIN Press journal publications will appear here as they are released. Each journal will retain its own editorial identity, issue archive and publication record.
+
+[Browse all publications](../publications/)

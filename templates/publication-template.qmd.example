@@ -1,0 +1,35 @@
+---
+title: "Publication title"
+subtitle: "Publication subtitle"
+title-ta: ""
+subtitle-ta: ""
+slug: publication-slug
+type: book
+status: forthcoming
+date: 2026
+year: 2026
+image: ../../assets/covers/publication-cover.png
+image-alt: "Describe the cover without interpreting decorative details"
+description: "One concise catalogue description."
+languages: [English]
+subjects: [Subject]
+categories: [Book, English, Subject, 2026]
+editors: []
+authors: []
+publisher: "Council for Diversity and Innovation (CoDIN)"
+edition: "First e-version, 2026"
+license: "CC BY-NC-SA 4.0"
+isbn-epub-en: ""
+isbn-pdf-en: ""
+doi-en: ""
+canonical-url: "https://publications.diversity.org.in/repository-slug/"
+repository-url: "https://github.com/CoDIN-Press/repository-slug"
+html-en: "/repository-slug/en/"
+epub-en: "/repository-slug/downloads/publication-en.epub"
+pdf-en: "/repository-slug/downloads/publication-en.pdf"
+page-layout: full
+toc: true
+draft: true
+---
+
+Replace this template with publication-specific catalogue content. Remove `draft: true` only after all visible metadata and links have been reviewed.

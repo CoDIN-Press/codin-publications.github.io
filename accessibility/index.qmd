@@ -1,0 +1,15 @@
+---
+title: "Accessibility"
+---
+
+CoDIN Press aims to make its portal and publications usable across devices, languages and ways of reading.
+
+The portal is designed with semantic headings, keyboard-accessible navigation, visible focus states, responsive layouts, sufficient colour contrast, reduced-motion support and meaningful text alternatives for informative images. Publications may additionally provide EPUB and PDF editions for readers who need different formats.
+
+## Known limitations
+
+Accessibility can vary between downloadable formats, reading applications and third-party material. Older or externally supplied media may not yet meet the same standard as newly produced editorial content. Cultural or consent restrictions may also prevent a public text alternative from disclosing particular information.
+
+## Feedback
+
+If you encounter a barrier, please report the page, publication, format, device or reading application involved through the [CoDIN-Press GitHub organization](https://github.com/CoDIN-Press). We will use that information to investigate corrections that preserve the work’s rights and cultural conditions.

@@ -1,0 +1,19 @@
+---
+title: "Publications"
+description: "Browse books, journals and resources published by CoDIN Press."
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  fields: [image, title, subtitle, description, date, categories]
+  sort: "date desc"
+  sort-ui: [date, title]
+  filter-ui: true
+  categories: true
+  page-size: 12
+  grid-columns: 3
+  image-height: 320px
+page-layout: full
+toc: false
+---
+
+Browse the CoDIN Press catalogue. Search by title or use categories to narrow the collection by publication type, language, subject or year.

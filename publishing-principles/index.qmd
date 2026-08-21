@@ -1,0 +1,29 @@
+---
+title: "Publishing Principles"
+---
+
+CoDIN Press applies the following principles to its digital publications.
+
+## Context and attribution
+
+Knowledge should remain connected to the people, relationships, communities, languages and circumstances through which it exists. Publications must identify contributors accurately and avoid presenting institutional description as a substitute for practitioner or community knowledge.
+
+## Consent and cultural authority
+
+Permission to document does not automatically permit unrestricted publication. Editors must carry forward applicable consent, cultural protocol, access restrictions and conditions of use into every published format.
+
+## Multilingual publication
+
+Language editions are publications in their own right. Translation should preserve meaning, tone and culturally specific terminology rather than forcing mechanical equivalence between editions.
+
+## Accessibility
+
+Publications should use semantic structure, readable typography, keyboard-accessible navigation, meaningful alternative text and downloadable formats that support a range of devices and reading practices.
+
+## Correction and maintenance
+
+Digital publication is not an excuse for silent alteration. Material corrections should be reviewable, versioned and reflected consistently across web and downloadable editions. Stable URLs and metadata should be maintained when files or hosting arrangements change.
+
+## Responsible openness
+
+Open licensing can support access and reuse, but it does not erase third-party rights, moral rights, consent conditions or cultural restrictions. Those conditions must remain visible wherever affected material appears.

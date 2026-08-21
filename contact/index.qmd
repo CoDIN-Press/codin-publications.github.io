@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+CoDIN Press currently receives publication and technical enquiries through the [CoDIN-Press organization on GitHub](https://github.com/CoDIN-Press).
+
+- For a problem with this portal, open an issue in the `CoDIN-Press.github.io` repository.
+- For a correction or accessibility issue in a particular publication, use that publication’s source-repository link.
+- Do not post private, culturally restricted, legally sensitive or personally identifying material in a public issue. In such cases, first request an appropriate private contact channel without including the sensitive information.
