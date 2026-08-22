@@ -6,7 +6,8 @@ subtitle-ta: "ஓர் களக்கையேடு"
 slug: documenting-performing-arts
 type: book
 status: published
-date: "2026"
+date: "2026-08-22"
+date-format: "D MMMM YYYY"
 year: "2026"
 image: ../../assets/covers/documenting-performing-arts-en.png
 image-alt: "Cover of Documenting Performing Arts: A Field Manual"
@@ -83,6 +84,7 @@ B. Appu · S. Vijayakumari · R. Gayathri · V. S. Dhivya Bharathi · Karthick N
 - **E-Version Publisher:** Council for Diversity and Innovation (CoDIN)
 - **Web Rendering:** Ritesh Kumar
 - **Edition:** First e-version, 2026
+- **Published:** 22 August 2026
 - **Languages:** English and Tamil
 - **Licence:** [Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Source:** [CoDIN-Press/dpfa-manual](https://github.com/CoDIN-Press/dpfa-manual)
