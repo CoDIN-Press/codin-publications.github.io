@@ -7,7 +7,7 @@ toc: false
 
 ::: {.hero}
 ::: {.hero-copy}
-## Knowledge carried with care
+## Knowledge carried with CARE
 
 CoDIN Press publishes accessible, multilingual and ethically grounded works for readers, practitioners, communities and researchers. Our publications are designed to preserve context, attribution and cultural responsibility as knowledge moves between people, formats and languages.
 
