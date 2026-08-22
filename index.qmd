@@ -36,7 +36,7 @@ A bilingual field manual for documenting performing arts as living knowledge, gr
 **English · தமிழ்**  
 **Book · Open digital edition · 2026**
 
-[View publication](publications/documenting-performing-arts/){.btn .btn-primary} [Read the book](/dpfa-manual/){.btn .btn-outline-primary}
+[View publication](/dpfa-manual/){.btn .btn-primary} [Read in English](/dpfa-manual/en/){.btn .btn-outline-primary} [தமிழில் வாசிக்க](/dpfa-manual/ta/){.btn .btn-outline-primary lang="ta"}
 :::
 :::
 
