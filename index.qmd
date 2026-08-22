@@ -1,6 +1,6 @@
 ---
 title: "CoDIN Press"
-subtitle: "A publishing initiative of the Council for Diversity and Innovation"
+subtitle: "An initiative of the Council for Diversity and Innovation"
 page-layout: full
 toc: false
 ---
@@ -29,7 +29,7 @@ CoDIN Press publishes accessible, multilingual and ethically grounded works for 
 ::: {.featured-copy}
 ### Documenting Performing Arts: A Field Manual
 
-*நிகழ்த்துக் கலைகளை ஆவணப்படுத்துதல் — ஓர் களக்கையேடு*
+### நிகழ்த்துக் கலைகளை ஆவணப்படுத்துதல் — ஓர் களக்கையேடு
 
 A bilingual field manual for documenting performing arts as living knowledge, grounded in relationships, consent, cultural authority and responsible practice.
 
